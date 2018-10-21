@@ -1,6 +1,7 @@
 Calendar
 ---
 - [Day 1](day1) - Strings, Variables, and Integers
+- [Day 2](day2) - Lists
 
 
 Reference
