@@ -1,4 +1,5 @@
 # coding: utf-8
+import pytest
 
 
 def test_append():
@@ -9,6 +10,9 @@ def test_append():
     assert city_list[0] is "Maringá"
     assert city_list[1] is "Rio de Janeiro"
     assert city_list[2] is "São Paulo"
+
+    with pytest.raises(IndexError):
+        city_list[3]
 
 
 def test_pop():
