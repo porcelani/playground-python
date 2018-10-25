@@ -4,6 +4,8 @@ Calendar
 - [Day 2](day2) - Lists, Dictionaries e Tuples,
 - [Day 3](day3) - Loops
 - [Day 4](day4) - Conditionals
+- [Day 5](day5) - Functions
+- [Day 6](day6) - Advanced Strings
 
 
 Reference
