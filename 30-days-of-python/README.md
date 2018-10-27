@@ -6,7 +6,8 @@ Calendar
 - [Day 4](day4) - Conditionals
 - [Day 5](day5) - Functions
 - [Day 6](day6) - Advanced Strings
-- [Day 6](day7) - Class
+- [Day 7](day7) - Classes
+- [Day 8](day8) - Classes Part 2
 
 
 Reference
