@@ -8,6 +8,7 @@ Calendar
 - [Day 6](day6) - Advanced Strings
 - [Day 7](day7) - Classes
 - [Day 8](day8) - Classes Part 2
+- [Day 10](day10) - Setup Python to send Email with Gmail
 
 
 Reference
