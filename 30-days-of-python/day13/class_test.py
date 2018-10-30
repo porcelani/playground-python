@@ -6,3 +6,9 @@ def test_class():
     obj = Template()
 
     assert obj.get_format_text("Danilo", "31") == "Hi my name is Danilo and I'm 31 year old.\n"
+
+    context = {
+        "name": "Danilo",
+        "age": 31
+    }
+    assert obj.get_format(context) == "Hi my name is Danilo and I'm 31 year old.\n"

@@ -7,6 +7,9 @@ class Template:
     def __init__(self):
         pass
 
+    def get_format(self, context):
+        return self.get_template().format(**context)
+
     def get_format_text(self, name, age):
         return self.get_template().format(name=name, age=age)
 
