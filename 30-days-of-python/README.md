@@ -9,7 +9,7 @@ Calendar
 - [Day 7](day7) - Classes
 - [Day 8](day8) - Classes Part 2
 - [Day 10](day10) - Setup Python to send Email with Gmail
-
+- [Day 13](day13) - Using External Template 
 
 Reference
 ---
