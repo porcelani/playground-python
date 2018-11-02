@@ -11,6 +11,7 @@ Calendar
 - [Day 10](day10) - Setup Python to send Email with Gmail
 - [Day 13](day13) - Using External Template 
 - [Day 14](day14) - CSV Files with Python
+- [Day 15](day15) - Functions to Dynamically Add Data to CSV with Python
 
 Reference
 ---
