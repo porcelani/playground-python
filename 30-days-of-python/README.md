@@ -12,6 +12,8 @@ Calendar
 - [Day 13](day13) - Using External Template 
 - [Day 14](day14) - CSV Files with Python
 - [Day 15](day15) - Functions to Dynamically Add Data to CSV with Python
+- [Day 16](day16) - Edit CSV with Python
+- [Day 17](day17) - Read Data Function for CSV 
 
 Reference
 ---
