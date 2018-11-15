@@ -16,6 +16,8 @@ Calendar
 - [Day 17](day17) - Read Data Function for CSV 
 - [Day 18](day18) - Running Python Commands & Arguments in Terminal
 - [Day 21](day21) - Web Scraping with Python 
+- [Day 26](day26) - Get Data with an API
+
 
 Reference
 ---
